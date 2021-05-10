@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Age_of_War.iml" filepath="$PROJECT_DIR$/.idea/modules/Age_of_War.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Age_of_War.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Age_of_War.app.iml" />
+    </modules>
+  </component>
+</project>
