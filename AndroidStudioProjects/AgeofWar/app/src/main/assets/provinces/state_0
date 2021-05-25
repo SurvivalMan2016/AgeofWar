@@ -1,0 +1,9 @@
+{
+  "id": 0,
+  "name": "test_state",
+  "economy_lvl": 100,
+  "development_lvl": 100,
+  "type": "plain",
+  "first_owner": "test",
+  "owner": "test"
+}

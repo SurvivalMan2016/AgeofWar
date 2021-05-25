@@ -1,0 +1,7 @@
+{
+  "id_country":"test",
+  "name":"test",
+  "money":100,
+  "provinces_id":[0],
+  "soldier":{"tag":"tst", "name":"Test Soldier", "attack":15.00, "defense":30.00, "health_points":75.00}
+}
