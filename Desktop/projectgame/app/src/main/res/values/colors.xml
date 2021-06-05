@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorOnPrimary">#EDC0C0</color>
+    <color name="colorOnPrimaryDark">#000000</color>
+    <color name="colorAccent">#148C81</color>
+    <color name="colorBackground">#F4EED0</color>
+    <color name="colorScene">#bbada0</color>
+    <color name="colorPassiveCell">#935BF4</color>
+    <color name="colorActiveCell">#E35146</color>
+    <color name="colorShadow">#80000000</color>
+    <color name="colorSceneDark">#50000000</color>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ColoredCube</string>
+    <string name="button_play">Play</string>
+    <string name="button_play_again">Play again</string>
+    <string name="button_back_menu">Menu</string>
+    <string name="normal">Normal</string>
+    <string name="random">Random</string>
+    <string name="time">Time</string>
+    <string name="moves">Moves</string>
+    <string name="menu">menu</string>
+    <string name="difficultyName">Select difficulty</string>
+    <string name="please_wait">please wait...</string>
+
+</resources>
